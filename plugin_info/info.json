@@ -1,0 +1,13 @@
+{
+	"id" : "smartplug",
+	"name" : "Wifi Smartplug",
+	"description" : "Plugin pour controller les équipements smartplug wifi TpLink",
+	"licence" : "AGPL",
+	"author" : "Mathman",
+	"require" : "3.2",
+	"category" : "energy",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"changelog" : "https://github.com/mathman/smartplug-jeedom",
+	"documentation" : "https://github.com/mathman/smartplug-jeedom"
+}
